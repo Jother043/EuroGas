@@ -12,4 +12,5 @@ class AppContainer(context: Context) {
 
     val GasStationRepository: GasStationRepository = GasStationRepository(GasStationApiService)
 
+
 }

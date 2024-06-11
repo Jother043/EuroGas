@@ -1,8 +1,8 @@
 import com.google.gson.annotations.SerializedName
 
 data class GasStationsResponse(
+    @SerializedName("ListaEESSPrecio") val gasStations: List<GasStation>,
     @SerializedName("Fecha") val date: String,
-    @SerializedName("ListaEESSPrecio") val gasStationList: List<GasStation>,
     @SerializedName("Nota") val note: String,
     @SerializedName("ResultadoConsulta") val queryResult: String
 )

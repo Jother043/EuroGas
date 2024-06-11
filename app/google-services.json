@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030248801344",
+    "project_id": "eurogas-a2a93",
+    "storage_bucket": "eurogas-a2a93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030248801344:android:77f5de406517cb8e5beba5",
+        "android_client_info": {
+          "package_name": "com.example.eurogas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZha1q8pHFOEaXpA-UbR0jNEGRthLh-Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
